@@ -1,0 +1,26 @@
+#container
+{
+    margin: auto;
+    margin-top: 3vh;
+    text-align: center;
+    white-space: pre;
+    border-collapse: collapse;
+    color: white;
+}
+/* th
+{
+    background-color: #1b1b1b;
+}
+td, th
+{
+    border: 1px white solid;
+    padding: 1vh;
+} */
+#name
+{
+    width: 15vw;
+}
+#state, #action
+{
+    width: 6vw;
+}

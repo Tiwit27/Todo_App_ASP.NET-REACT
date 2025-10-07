@@ -1,0 +1,11 @@
+#Task
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.green
+{
+    background-color: rgba(142, 221, 52, 0.274);
+}

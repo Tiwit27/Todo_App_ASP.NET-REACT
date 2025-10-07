@@ -1,0 +1,46 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.vscode/
+*.env
+
+# Logs
+*.log
+logs/
+
+# Publish outputs
+publish/
+
+# NPM/Yarn (if you have frontend inside project)
+node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# ASP.NET temporary files
+*.vspscc
+*.vssscc
